@@ -50,4 +50,3 @@ def describe_image(image_path):
 
 image_path = "C:/Users/voltc/Desktop/Spartan Corto.png"
 
-print(describe_image(image_path))
